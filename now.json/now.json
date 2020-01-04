@@ -2,6 +2,6 @@
   "name": "proxy",
   "version": 2,
   "routes": [
-    {"src": "/v2ray/(.*)","dest": "https://搭建好ws的地址/$1"}
+    {"src": "/v2ray/(.*)","dest": "https://msdn.shinymu.com/$1"}
   ]
 }
